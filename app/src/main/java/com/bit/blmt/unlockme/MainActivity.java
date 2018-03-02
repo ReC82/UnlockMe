@@ -6,12 +6,21 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-public class MainActivity extends AppCompatActivity {
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
+public class MainActivity extends AppCompatActivity {
+    FirebaseDatabase db;
+    DatabaseReference dbref;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        db = FirebaseDatabase.getInstance();
+        dbref = db.getReference("MyField");
+        dbref.setValue("testValue");
+
     }
 
     public void go_to_game(View v)
