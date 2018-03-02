@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725142586832",
+    "firebase_url": "https://unlockme-390a7.firebaseio.com",
+    "project_id": "unlockme-390a7",
+    "storage_bucket": "unlockme-390a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725142586832:android:1f909cf92b302122",
+        "android_client_info": {
+          "package_name": "com.bit.blmt.unlockme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725142586832-r34taqt0pejhu55rjlnff2kio8sfimr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bit.blmt.unlockme",
+            "certificate_hash": "91c3f1696ee295e0556d65d839d1f9fa162006a2"
+          }
+        },
+        {
+          "client_id": "725142586832-rn84iburj1p68g6bn3odleo9iusvh61u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpnJTDCTkTh09hPFU2Srvtan1Z2wpSHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725142586832-rn84iburj1p68g6bn3odleo9iusvh61u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
