@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnlockMe.iml" filepath="$PROJECT_DIR$/UnlockMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UnlockMe.iml" filepath="$PROJECT_DIR$/.idea/UnlockMe.iml" />
+      <module fileurl="file://C:\Users\LoDy\StudioProjects\UnlockMe\UnlockMe.iml" filepath="C:\Users\LoDy\StudioProjects\UnlockMe\UnlockMe.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
